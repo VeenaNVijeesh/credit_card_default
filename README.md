@@ -1,1 +1,1 @@
-# credit_card_default
+# case_study_credit_card_default
